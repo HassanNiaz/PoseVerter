@@ -1,0 +1,52 @@
+*******************************************************************************************************************************************************************************************                           
+						     User Guide Manual to use Hand gesture detector         
+*******************************************************************************************************************************************************************************************                          
+                                     			--- Computer Programming II Project ---
+
+                                                    Title:   --- Morse Code Converter ---
+*******************************************************************************************************************************************************************************************
+This Project was approved by Sir Ahsan Naeem.
+
+This program was made by Hassan Niaz and Muhammad Anas Ramzan. @7_May_2022 using python language.
+*******************************************************************************************************************************************************************************************
+A -> .-
+B -> -...
+C -> -.-.
+D -> -..
+E -> .
+F -> ..-.
+G -> --.
+H -> ....
+I -> ..
+J -> .---
+K -> -.-
+L -> .-..
+M -> --
+N -> -.
+O -> ---
+P -> .--.
+Q -> --.-
+R -> .-.
+S -> ...
+T -> -
+U -> ..-
+V -> ...-
+W -> .--
+X -> -..-
+Y -> -.--
+Z -> --..
+
+*******************************************************************************************************************************************************************************************
+                          						-----Instructions-----
+
+>> Always keep the "HandTrackingModule.py" in the same folder as the main program.
+
+>> Always make a folder named "audio" inside the working folder.
+
+>> Keep the video in a folder having the same name as the video name and keep it inside the working folder.
+
+>> Make sure to connect the device with the internet for text-to-speech conversion.
+
+>> Install the gtts module by going to command prompt and typing in the command "pip install gTTS"
+
+>> Install the playsound module by going to command prompt and typing in the command "pip install playsound"
