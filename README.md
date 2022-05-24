@@ -1,2 +1,2 @@
 # PoseVerter
-This python program can convert hand gestures (based on Morse code) using OpenCV and MediaPipe
+This python program can convert hand gestures (based on Morse code) to text using OpenCV and MediaPipe
